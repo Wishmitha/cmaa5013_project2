@@ -1,0 +1,14 @@
+{
+  "name": "cmaa5013-project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wishmitha Mendis",
+  "license": "ISC",
+  "dependencies": {
+    "marzipano": "^0.10.2"
+  }
+}
